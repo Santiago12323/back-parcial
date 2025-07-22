@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: clima
+    restclient:
+      clima:
+        url: http://api.weatherapi.com/v1/
+        key: 83ec500b1d684130b61144058252207
