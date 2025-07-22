@@ -2,7 +2,6 @@ package com.arsw.parcial.parcial2.infrastructure.controller;
 
 
 import com.arsw.parcial.parcial2.domain.port.ClimaService;
-import com.arsw.parcial.parcial2.infrastructure.restclient.dto.responseDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
